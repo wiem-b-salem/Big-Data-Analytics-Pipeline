@@ -268,6 +268,6 @@ When done, run `start_servers.sh` again and choose option **2** (Thrift Server) 
 
 ---
 
-## Author
+## Wiem Ben Salem
 
 Built as part of a Big Data university project — May 2026.
